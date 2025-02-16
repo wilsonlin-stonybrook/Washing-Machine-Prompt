@@ -1,10 +1,3 @@
-/**
- * Wilson Lin
- * 115091711
- * wilson.lin.2@stonybrook.edu
- * Hw 4
- * CSE214.R04 Summer 2024
- */
 
 import java.io.File;
 import java.io.FileNotFoundException;
